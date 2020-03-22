@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 
-# Creator :  Sabila, Kania
+# Creator :  Sabila
 # Team :  Cyber Black White Girl Team ( BCA - X666X )
 # Youtobe : HackSael
 # Gunakan dengan bijak jangan di lakukan dengan salah:v
@@ -34,7 +34,6 @@ def MesinTik_2(text):
 	
 def Banner():
 	MesinTik_2(''+C+'''
-
   ____                         __        __    
  / ___| _ __   __ _ _ __ ___   \ \      / /_ _ 
  \___ \| '_ \ / _` | '_ ` _ \   \ \ /\ / / _` |
@@ -42,8 +41,8 @@ def Banner():
  |____/| .__/ \__,_|_| |_| |_|    \_/\_/ \__,_|
        |_|                                     
                    '''+W+'Creator :Sabila,Kania\n\t\t   YT : HackSael,KaniaMp')
-                   
-def RupaRupa():
+                  
+def RupaRupa()
 	print
 	MesinTik(C+'\t SPAM RUPA RUPA')
 	MesinTik(W+'\t================')
